@@ -32,7 +32,8 @@ class FileTab:
 class CodeApp(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("T-Code App betta")
+        self.title("T-Code ide
+        betta")
         self.geometry("1000x600")
         self.configure(bg="#f0f4f8")
 
