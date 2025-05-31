@@ -12,7 +12,7 @@ import threading
 i = 0
 
 # === Константы для ИИ-агента ===
-API_KEY = "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"
+API_KEY = "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"
 MODEL = "google/gemma-3n-e4b-it:free"
 
 def process_content(content):
